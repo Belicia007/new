@@ -1,0 +1,54 @@
+pwd – Print working directory
+ls – List files and folders
+cd – Change directory
+clear – Clear terminal screen
+whoami – Show current user
+echo – Print text on screen
+date – Show system date/time
+cal – Display calendar
+uptime – Show system running time
+uname – Show system info
+uname -a – Show detailed system info
+hostname – Display system hostname
+id – Show user and group ID
+man – View manual of command
+info – Detailed command information
+which – Show command path
+whereis – Locate command files
+whatis – One-line command description
+ls -l – List files with details
+ls -a – List all including hidden
+cat – Show file contents
+tac – Show file in reverse
+less – View file one page
+head – Show first lines
+tail – Show last lines
+cp – Copy files or folders
+mv – Move or rename files
+rm – Delete files or folders
+mkdir – Make new directory
+rmdir – Remove empty directory
+touch – Create empty file
+find – Search for files
+locate – Find files quickly
+grep – Search text in file
+wc – Count words, lines, chars
+sort – Sort file lines
+uniq – Remove duplicate lines
+df – Show disk usage
+du – Show directory size
+free – Show memory usage
+top – Show running processes
+ps – List running processes
+kill – Stop a process
+history – Show used commands
+chmod – Change file permissions
+chown – Change file owner
+ping – Test network connection
+wget – Download files
+tar – Create/extract archive
+zip – Compress files
+unzip – Extract zip files
+
+
+	
