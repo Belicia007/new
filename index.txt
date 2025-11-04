@@ -1,4 +1,6 @@
 password:belicia@7
+Belicia@cisco7
+token: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
 
 //Setup Git
 sudo apt update
